@@ -1,0 +1,8 @@
+{
+  "Webhook": "Webhook",
+  "StalkID(s)": [UserID],
+  "Token": "Token",
+  "JoinChannel": true,
+  "SwitchChannel": true,
+  "LeaveChannel": true
+}
